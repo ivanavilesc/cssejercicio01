@@ -1,3 +1,6 @@
+
+<!-- Se llama un list-group de bootstrap, -->
+
 <div class="list-group">
 <a class="list-group-item" href="<?=URLBASE;?>"><i class="fa fa-home fa-2x"></i> Home</a>
 <a class="list-group-item" href="#"><i class="fa fa-file-o fa-2x"></i> Solicitudes</a>

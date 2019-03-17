@@ -17,6 +17,7 @@ and open the template in the editor.
         
         <div id="contenedor">
             <div id="titulo"></div>
+            <!-- Se puede hacer un include dentro de un DIV, mientras se abra un TAG para codigo PHP-->
             <div id="menu"><?php include('menu.php');?></div>
             <div id="contenido"></div>
         </div>
